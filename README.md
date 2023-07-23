@@ -5,3 +5,6 @@ Data Analysis with pandas
 <li>Data manipulation</li>
 <li>Understand data preprocessing with pandas and Python</li>
 <li>visualization techniques</li>
+
+# Contributions
+<li>Contributions are highly welcomed.</li>
