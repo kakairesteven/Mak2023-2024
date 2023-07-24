@@ -4,8 +4,9 @@ The analysis is for learning purposes and aims to teach data analysis using Pand
 
 # Objectives
 <li>Data manipulation</li>
-<li>Ddata preprocessing</li>
-<li>visualization techniques</li>
+<li>Data preprocessing</li>
+<li>Visualization techniques</li>
+<li>Data Analysis</li>
 
 # Contributions
 <li>Contributions are highly welcomed.</li>
