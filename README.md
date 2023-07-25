@@ -1,5 +1,5 @@
 # Mak2023-2024
-This projects aims to analyze a university admission data for Makerere University, the premier and oldest university in East Africa.
+This project aims to analyze a university admission data for Makerere University, the premier and oldest university in East Africa.
 The analysis is for learning purposes and aims to teach data analysis using Pandas and Python.
 
 # Objectives
