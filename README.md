@@ -7,6 +7,7 @@ The analysis is for learning purposes and aims to teach data analysis using Pand
 <li>Data preprocessing</li>
 <li>Visualization techniques</li>
 <li>Data Analysis</li>
+<li>A minimal Data Analytics System</li>
 
 # Contributions
 <li>Contributions are highly welcomed.</li>
