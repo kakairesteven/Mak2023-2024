@@ -6,5 +6,6 @@ Data Aggregation.
 
 This branch achieved Data Visualization using;
 
-<li>Matplotlib</li>
-<li>Seaborn</li>
+<li>Data aggregation operations</li>
+<li>Group Operations</li>
+<li>...</li>
