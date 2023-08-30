@@ -4,9 +4,10 @@ The analysis is for learning purposes and aims to teach data analysis using Pand
 
 # Objectives
 <li>Data manipulation</li>
-<li>Data preprocessing</li>
-<li>Visualization techniques</li>
-<li>Data Analysis</li>
+<li>Data preprocessing: main branch</li>
+<li>Visualization techniques: Virtualization branch</li>
+<li>Data Analysis: analysis branch</li>
+<li>Aggregation: aggregation branch</li>
 <li>A minimal Data Analytics System</li>
 
 # Contributions
