@@ -4,10 +4,10 @@ Data Aggregation.
 
 # Data aggregation.
 
-This branch explores the different possibilities
-in data aggregation and group operations
-and achieved the following;
+This branch explores time series and possible application to university data.
+Here, I generate pseudo data for learning purposes.
+Data generated include;
 
-<li>Data aggregation operations</li>
-<li>Group Operations</li>
-<li>...</li>
+<li>financial data</li>
+<li>Health data</li>
+<li>Academic data</li>
