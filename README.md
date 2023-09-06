@@ -9,5 +9,4 @@ Here, I generate pseudo data for learning purposes.
 Data generated include;
 
 <li>financial data</li>
-<li>Health data</li>
-<li>Academic data</li>
+
