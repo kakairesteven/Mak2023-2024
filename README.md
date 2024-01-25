@@ -10,5 +10,8 @@ The analysis is for learning purposes and aims to teach data analysis using Pand
 <li>Aggregation: aggregation branch</li>
 <li>A minimal Data Analytics System</li>
 
+This repo has different branches that illustrate key concepts of data analytics with Python
+and Pandas. Explore all branches to have an introductory feel of Pandas.
+
 # Contributions
 <li>Contributions are highly welcomed.</li>
