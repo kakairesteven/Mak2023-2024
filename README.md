@@ -4,7 +4,7 @@ Python Data Analysis with Pandas.
 
 # Data Analysis.
 
-This branch repository covers exploratory data analysis with Python.
+This repository covers exploratory data analysis with Python.
 
 It achieves the following;
 <li>Data Cleaning</li>
