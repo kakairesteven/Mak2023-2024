@@ -1,13 +1,14 @@
 # Mak2023-2024
 
-Data Aggregation.
+Python Data Analysis with Pandas.
 
-# Data aggregation.
+# Data Analysis.
 
-This branch explores the different possibilities
-in data aggregation and group operations
-and achieved the following;
+This branch repository covers exploratory data analysis with Python.
 
-<li>Data aggregation operations</li>
-<li>Group Operations</li>
-<li>...</li>
+It achieves the following;
+<li>Data Cleaning</li>
+<li>Data Data Wrangling</li>
+<li>Analysis</li>
+<li>Visualization</li>
+<li>..</li>
