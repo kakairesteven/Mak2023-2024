@@ -4,7 +4,7 @@ Python Data Analysis with Pandas.
 
 # Data Analysis.
 
-This repository covers exploratory data analysis with Python.
+This repository covers exploratory data analysis of a university admission of the academic year 2022-2023.
 
 It achieves the following;
 <li>Data Cleaning</li>
