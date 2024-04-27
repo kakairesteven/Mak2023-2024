@@ -8,7 +8,7 @@ This repository covers exploratory data analysis of a university admission of th
 
 It achieves the following;
 <li>Data Cleaning</li>
-<li>Data Data Wrangling</li>
+<li>Data Wrangling</li>
 <li>Analysis</li>
 <li>Visualization</li>
 <li>..</li>
