@@ -2,3 +2,7 @@ general:
     columnNames: ["INDEX NO", "NAME", "GENDER", "UACE YEAR", "CODE", "DISTRICT", "COURSE CODE", "COURSE NAME"]
     columnNames2: ["APPLICATION NO", "INDEX NO", "NAME", "GENDER", "UACE YEAR", "CODE", "DISTRICT", "COURSE CODE", "COURSE NAME", "TOTAL WEIGHT"]
     saved_file: 'private.csv'
+    categorical_columns: ["GENDER", "COURSE CODE", "SCHOOL INDEX", "DISTRICT", "UACE YEAR", "SCHOOL"]
+    text_columns: ["NAME", "APPLICATION NO"]
+    continuous_columns: ["TOTAL WEIGHT"]
+    
