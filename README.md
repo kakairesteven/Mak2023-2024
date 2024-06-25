@@ -1,8 +1,13 @@
 # Mak2023-2024
 
-Python Data Analysis with Pandas.
+Data analysis of Makerere University 2023-2024 Private Admissions
 
-# Data Analysis.
+# Objectives
+<li>Data Profiling</li>
+<li>Clean and Wrangle Data</li>
+<li>Analysis data for gender, uace year, Program, Total Weight, School, </li>
+
+
 
 This repository covers exploratory data analysis of a university admission of the academic year 2022-2023.
 
