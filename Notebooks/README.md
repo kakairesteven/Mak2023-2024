@@ -5,7 +5,10 @@ Data analysis of Makerere University 2023-2024 Private Admissions
 # Objectives
 <li>Data Profiling</li>
 <li>Clean and Wrangle Data</li>
-<li>Analysis data for gender, uace year, Program, Total Weight, School, </li>
+<li>Analysis data for Gender, UACE year, Program, Total Weight, School, </li>
+<li>Create informative visualizations</li>
+<li>Provide actional insights</li>
+<li>Propose a data pipeline to clean, wrangle, analysis and visualize data</li>
 
 
 
